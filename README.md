@@ -1,9 +1,7 @@
-Hi, I am Frederico 35 years old.
-
-i'm focus on embedded systems.
-
 Most languages i use:
-C++,C and Python.
+1. C++,
+2. C
+3. Python.
 
 <!---
 Fredelektro/Fredelektro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
