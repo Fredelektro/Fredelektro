@@ -1,5 +1,5 @@
 Hi, I am Frederico
-I'm learning AVR Mocrocontolller architecture and interface UART 
+I'm learning AVR Mocrocontoller architecture and interface UART 
 
 <!---
 Fredelektro/Fredelektro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
